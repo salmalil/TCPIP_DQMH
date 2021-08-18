@@ -1,2 +1,7 @@
 # TCPIP_DQMH
 DQMH MODULES TO COMUNICATE TCP/IP
+
+
+## requirements
+LabView 2020 SP1
+DQMH 6.0
